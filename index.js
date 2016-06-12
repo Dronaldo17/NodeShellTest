@@ -1,1 +1,1 @@
-moudle.export.hello = require('./hello')
+export.hello = require('./hello')

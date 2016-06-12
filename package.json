@@ -1,7 +1,7 @@
 {
-  "name": "NodeShellTest",
+  "name": "dr",
   "version": "1.0.0",
-  "description": "测试Node脚本",
+  "description": "for test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/Dronaldo17/NodeShellTest.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "dr",
+    "test"
+  ],
+  "author": "DRonaldo17",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Dronaldo17/NodeShellTest/issues"
   },
   "homepage": "https://github.com/Dronaldo17/NodeShellTest#readme",
   "dependencies": {
-      "shelljs":"",
-  }
+      "shelljs": "0.7.0",
+  },
 }

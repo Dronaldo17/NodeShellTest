@@ -19,8 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dronaldo17/NodeShellTest/issues"
   },
-  "homepage": "https://github.com/Dronaldo17/NodeShellTest#readme",
   "dependencies": {
       "shelljs": "0.7.0",
-  }
+  },
+  "homepage": "https://github.com/Dronaldo17/NodeShellTest#readme",
 }

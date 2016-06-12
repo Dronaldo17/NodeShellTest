@@ -22,5 +22,5 @@
   "homepage": "https://github.com/Dronaldo17/NodeShellTest#readme",
   "dependencies": {
       "shelljs": "0.7.0",
-  },
+  }
 }
